@@ -1,5 +1,21 @@
-class demo {
-	public static void (string) (
+/*class demo {
+	public static void (string args 
+		[]
+	) (
 	classout.println("OOPS");
 	)
-	}
+	}*/
+	
+	public class oopsBannerUC2 {
+
+    public static void main(String[] args) {
+
+        System.out.println("*****   *****   ******   ***** ");
+        System.out.println("*   *   *   *   *    *   *    *");
+        System.out.println("*   *   *   *   *    *   *    *");
+        System.out.println("*   *   *****   ******   ***** ");
+        System.out.println("*   *   *   *   *        *     ");
+        System.out.println("*   *   *   *   *        *     ");
+        System.out.println("*****   *   *   *        *     ");
+    }
+}
